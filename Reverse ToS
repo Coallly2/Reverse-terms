@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse - Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url('https://cdn.discordapp.com/icons/1308682984551092255/b7326ba9a46a8d04d9497c75706c7b9d.webp?size=1024&format=webp') center center no-repeat;
+            background-size: cover;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 8px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .content {
+            font-weight: bold;
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        h2 {
+            text-decoration: underline;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img class="logo" src="https://cdn.discordapp.com/icons/1308682984551092255/b7326ba9a46a8d04d9497c75706c7b9d.webp?size=1024&format=webp" alt="Reverse Logo">
+        Reverse - Terms of Service
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>Support Terms:</h2>
+            <p><strong>Live Support:</strong> Join our Discord server and visit the support channel for assistance.</p>
+            <p><strong>Refunds:</strong> Generally, we do not offer refunds for software purchases, except in reasonable circumstances.</p>
+
+            <h2>Refund Policy:</h2>
+            <p><strong>Valid Reasons:</strong> Refunds may be issued if the product fails to work on your supported hardware. If you encounter issues, contact us for assistance.</p>
+            <p><strong>Non-Valid Reasons:</strong> Refund requests based on dissatisfaction, inability to use the product due to absence, or updates are not eligible.</p>
+
+            <h2>Terms and Conditions:</h2>
+            <p><strong>Product Status:</strong> Check the status page in our Discord for updates on products. Purchases made during "updating" or "down" statuses are non-refundable.</p>
+            <p><strong>Account Issues:</strong> We are not responsible for game bans or account terminations resulting from product use. Please use our products responsibly to avoid such issues.</p>
+
+            <p><strong>Content Usage:</strong> All website content is for informational purposes. Reproduction or modification without permission is prohibited.</p>
+            <p><strong>User Conduct:</strong> Engaging in illegal activities, such as hacking or spamming, is strictly forbidden.</p>
+
+            <h2>Copyright & Use of Products</h2>
+            <p><strong>Intellectual Property:</strong> All trademarks and content are owned by Reverse and protected by copyright laws.</p>
+            <p><strong>Third-Party Links:</strong> We are not responsible for the content of third-party websites.</p>
+            <p><strong>Software Requirements:</strong> You may need to disable antivirus software for product use. We do not sell viruses; this is for operational compatibility.</p>
+
+            <p><strong>Legal Use:</strong> Use our products responsibly for educational and fair purposes. Misuse may lead to legal consequences and revocation of licenses without refund.</p>
+
+            <p><strong>Absent Usage:</strong> As Reverse we reserve the right to discontinue products, however, we will reimburse active license keys with another product of choice. Also, if our staff is absent we do not replace keys due to inactivity etc.</p>
+
+            <p><strong>License Changing:</strong> At Reverse we do not ALLOW license key changing. Meaning you cannot buy a permanent 1-time key and change it to 1 week of temporary etc!</p>
+
+            <p><strong>Policy Changes:</strong> We reserve the right to update these terms at any time. Continued use indicates acceptance of changes.</p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        Made by <strong>zyvaq, Manager</strong>
+    </footer>
+
+</body>
+</html>
